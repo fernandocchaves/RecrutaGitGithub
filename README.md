@@ -1,4 +1,4 @@
 RecrutaGitGithub
 ================
 
-Repositório de exemplo para o screencast Recruta Git e Github
+Repositório de exemplo para o screencast Recruta Git e Github Code Squad
